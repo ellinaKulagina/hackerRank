@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Regex {
+public class regex {
     public static void mainNotMain(String[] args){
         Scanner in = new Scanner(System.in);
         while(in.hasNext()){
