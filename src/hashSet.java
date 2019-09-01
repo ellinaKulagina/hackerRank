@@ -1,7 +1,10 @@
+//You are given  pairs of strings.
+//After taking each pair as input, you need to print number of unique pairs you currently have.
+
 import java.util.*;
 
 public class hashSet {
-    public static void main(String[] args) {
+    public static void mainNotMain(String[] args) {
         Scanner s = new Scanner(System.in);
         int t = s.nextInt();
         String[] pair_left = new String[t];

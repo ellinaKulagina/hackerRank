@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="986a2a3f-5c5c-40ae-ad3e-dd82a174f564" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hashSet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hackerRank/findDay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hackerRank/findDay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aBigSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aBigSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/compareTriplets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/compareTriplets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/diagonalMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diagonalMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/findDay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findDay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ifElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ifElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/regex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simpleArraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleArraySum.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -144,17 +150,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/compareTriplets.java</url>
-          <line>21</line>
+          <line>26</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/compareTriplets.java</url>
-          <line>30</line>
+          <line>35</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/compareTriplets.java</url>
-          <line>34</line>
+          <line>39</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -174,7 +180,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/findDay.java</url>
-          <line>12</line>
+          <line>14</line>
           <option name="timeStamp" value="51" />
         </line-breakpoint>
       </breakpoints>

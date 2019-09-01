@@ -1,7 +1,12 @@
+//Alice and Bob each created one problem for HackerRank.
+//A reviewer rates the two challenges by three categories: problem clarity, originality, and difficulty.
+//Both raitings are triplets. Your task is to find their comparison points by comparing  a[0] with b[0] etc.
+//Complete the function compareTriplets, it must return an array of two integers,
+//the first being Alice's score and the second being Bob's.
+
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Scanner;
 
 public class compareTriplets {
     public static void mainNotMain(String[] args) throws IOException {

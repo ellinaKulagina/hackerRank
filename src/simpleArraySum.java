@@ -1,3 +1,5 @@
+//Function must return the sum of the array elements as an integer.
+
 import java.io.IOException;
 import java.util.Scanner;
 

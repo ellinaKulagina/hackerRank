@@ -1,3 +1,5 @@
+//You are given a date. You just need to write the method, which returns the day on that date.
+
 import java.time.LocalDate;
 
 public class findDay {

@@ -1,3 +1,6 @@
+// Write regex for IP validation
+// IP address is a string in the form "A.B.C.D", where the value of A, B, C, and D may range from 0 to 255.
+
 import java.util.Scanner;
 public class regex {
     public static void mainNotMain(String[] args){

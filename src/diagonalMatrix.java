@@ -1,6 +1,6 @@
-import java.lang.reflect.Array;
+//Given a square matrix, calculate the absolute difference between the sums of its diagonals.
+
 import java.util.ArrayList;
-import java.util.List;
 
 public class diagonalMatrix {
     public static void mainNotMain(String[] arg){
